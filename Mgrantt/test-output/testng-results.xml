@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[===Property file loaded Successfully===]]>
+    </line>
+    <line>
+      <![CDATA[===Browser Session Started===]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-08-27T22:56:44 IST" name="Default suite" finished-at="2020-08-27T22:57:14 IST" duration-ms="30041">
+    <groups>
+    </groups>
+    <test started-at="2020-08-27T22:56:44 IST" name="Default test" finished-at="2020-08-27T22:57:14 IST" duration-ms="30041">
+      <class name="com.Mgrant.TestCases.LoginTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Mgrant.TestCases.LoginTestCase@79ad8b2f]" started-at="2020-08-27T22:56:44 IST" name="setUp" finished-at="2020-08-27T22:57:08 IST" duration-ms="23490" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===Property file loaded Successfully===]]>
+            </line>
+            <line>
+              <![CDATA[===Browser Session Started===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.Mgrant.TestCases.LoginTestCase@79ad8b2f]" started-at="2020-08-27T22:57:08 IST" name="loginTest" finished-at="2020-08-27T22:57:14 IST" duration-ms="6513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.Mgrant.TestCases.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
