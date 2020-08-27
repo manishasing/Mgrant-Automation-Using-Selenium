@@ -41,6 +41,7 @@ public class BaseClass {
 		driver.get(url);
 //		Reporter.log("===Application Started===");
 		System.out.println("Application Started");
+		
 
 	}
 	
